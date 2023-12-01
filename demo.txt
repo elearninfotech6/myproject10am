@@ -1,0 +1,56 @@
+Python Full Stack Development
+==============================
+Python prog
+------------------
+1. c,java,c++ etc
+2. open source (python.org)
+3. general purpose prog lang
+4. platform indep
+5. simplified syntax
+6. web app, desktop app, games, testing, data visul, ML,AI,DA
+7. core python (Basic python)  & Adv Python (Advanced concepts) --> ds modules     (numpy,pandas,mat,web scrapping)
+
+DJango framework (collection of web comp)
+-------------------------
+2005, os, py
+create app, pages, images styles, tables forms, register etc
+SQLITE3: python.....models
+MySQL: 
+
+UI/Frontend technologies
+----------------------------------
+HTML: design layout
+CSS : styles or rich look
+Bootstrap : responsvie or mobile frndly 
+Javascript: functionality
+React JS: adv js lib, insta, what, loading time, single page app
+JQuery: animations
+
+4 to 5 months
+1hr(45+15)
+Regular assignments
+Cls rec video
+Material
+
+Projects
+------------
+8 to 10
+
+Group
+---------
+
+Web application:
+frontend: what end user or presentation----> HTML,CSS,BS,JS,JQ,React js
+backend: logics or functionality---------------> Python,django framework, MySQL/SQLITE3
+
+full stack development: end to end
+
+1. Python(core py +adv py)
+2. Python Full Stack
+
+py+dj+db---> py dev, dj dev, backend dev, web dev
+py+dj+db+frontend--->py dev, dj dev, backend dev, web dev, fullstack dev, frontend, react dev, web des
+
+addition prog (sum of 2 nums)
+1+2
+
